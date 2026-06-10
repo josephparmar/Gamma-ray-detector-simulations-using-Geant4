@@ -1,0 +1,4 @@
+/home/joepar/Geant4/geant4-v11.4.1-install/share/Geant4/geant4-tutorial/build/CMakeFiles/sim.dir
+/home/joepar/Geant4/geant4-v11.4.1-install/share/Geant4/geant4-tutorial/build/CMakeFiles/Tutorial.dir
+/home/joepar/Geant4/geant4-v11.4.1-install/share/Geant4/geant4-tutorial/build/CMakeFiles/edit_cache.dir
+/home/joepar/Geant4/geant4-v11.4.1-install/share/Geant4/geant4-tutorial/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+/run/initialize
+/control/cout/setCoutFile output.out
+/run/beamOn 1000000
+
+
